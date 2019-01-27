@@ -1,0 +1,147 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nombre"
+2017,1,"Ciutat Vella",1,"el Raval","Nens",283
+2017,1,"Ciutat Vella",2,"el Barri Gòtic","Nens",56
+2017,1,"Ciutat Vella",3,"la Barceloneta","Nens",51
+2017,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Nens",90
+2017,2,"Eixample",5,"el Fort Pienc","Nens",117
+2017,2,"Eixample",6,"la Sagrada Família","Nens",207
+2017,2,"Eixample",7,"la Dreta de l'Eixample","Nens",185
+2017,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Nens",176
+2017,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Nens",218
+2017,2,"Eixample",10,"Sant Antoni","Nens",172
+2017,3,"Sants-Montjuïc",11,"el Poble Sec","Nens",156
+2017,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Nens",4
+2017,3,"Sants-Montjuïc",13,"la Marina de Port","Nens",119
+2017,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Nens",42
+2017,3,"Sants-Montjuïc",15,"Hostafrancs","Nens",78
+2017,3,"Sants-Montjuïc",16,"la Bordeta","Nens",81
+2017,3,"Sants-Montjuïc",17,"Sants - Badal","Nens",108
+2017,3,"Sants-Montjuïc",18,"Sants","Nens",155
+2017,4,"Les Corts",19,"les Corts","Nens",199
+2017,4,"Les Corts",20,"la Maternitat i Sant Ramon","Nens",101
+2017,4,"Les Corts",21,"Pedralbes","Nens",32
+2017,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Nens",17
+2017,5,"Sarrià-Sant Gervasi",23,"Sarrià","Nens",122
+2017,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Nens",74
+2017,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Nens",104
+2017,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Nens",206
+2017,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Nens",127
+2017,6,"Gràcia",28,"Vallcarca i els Penitents","Nens",66
+2017,6,"Gràcia",29,"el Coll","Nens",26
+2017,6,"Gràcia",30,"la Salut","Nens",62
+2017,6,"Gràcia",31,"la Vila de Gràcia","Nens",241
+2017,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Nens",149
+2017,7,"Horta-Guinardó",33,"el Baix Guinardó","Nens",97
+2017,7,"Horta-Guinardó",34,"Can Baró","Nens",41
+2017,7,"Horta-Guinardó",35,"el Guinardó","Nens",148
+2017,7,"Horta-Guinardó",36,"la Font d'en Fargues","Nens",26
+2017,7,"Horta-Guinardó",37,"el Carmel","Nens",123
+2017,7,"Horta-Guinardó",38,"la Teixonera","Nens",48
+2017,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Nens",28
+2017,7,"Horta-Guinardó",40,"Montbau","Nens",26
+2017,7,"Horta-Guinardó",41,"la Vall d'Hebron","Nens",12
+2017,7,"Horta-Guinardó",42,"la Clota","Nens",8
+2017,7,"Horta-Guinardó",43,"Horta","Nens",99
+2017,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Nens",92
+2017,8,"Nou Barris",45,"Porta","Nens",104
+2017,8,"Nou Barris",46,"el Turó de la Peira","Nens",82
+2017,8,"Nou Barris",47,"Can Peguera","Nens",5
+2017,8,"Nou Barris",48,"la Guineueta","Nens",47
+2017,8,"Nou Barris",49,"Canyelles","Nens",35
+2017,8,"Nou Barris",50,"les Roquetes","Nens",88
+2017,8,"Nou Barris",51,"Verdun","Nens",50
+2017,8,"Nou Barris",52,"la Prosperitat","Nens",127
+2017,8,"Nou Barris",53,"la Trinitat Nova","Nens",38
+2017,8,"Nou Barris",54,"Torre Baró","Nens",20
+2017,8,"Nou Barris",55,"Ciutat Meridiana","Nens",49
+2017,8,"Nou Barris",56,"Vallbona","Nens",5
+2017,9,"Sant Andreu",57,"la Trinitat Vella","Nens",65
+2017,9,"Sant Andreu",58,"Baró de Viver","Nens",11
+2017,9,"Sant Andreu",59,"el Bon Pastor","Nens",66
+2017,9,"Sant Andreu",60,"Sant Andreu","Nens",227
+2017,9,"Sant Andreu",61,"la Sagrera","Nens",132
+2017,9,"Sant Andreu",62,"el Congrés i els Indians","Nens",61
+2017,9,"Sant Andreu",63,"Navas","Nens",98
+2017,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Nens",148
+2017,10,"Sant Martí",65,"el Clot","Nens",125
+2017,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Nens",79
+2017,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Nens",34
+2017,10,"Sant Martí",68,"el Poblenou","Nens",160
+2017,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Nens",103
+2017,10,"Sant Martí",70,"el Besòs i el Maresme","Nens",119
+2017,10,"Sant Martí",71,"Provençals del Poblenou","Nens",106
+2017,10,"Sant Martí",72,"Sant Martí de Provençals","Nens",100
+2017,10,"Sant Martí",73,"la Verneda i la Pau","Nens",122
+2017,1,"Ciutat Vella",1,"el Raval","Nenes",219
+2017,1,"Ciutat Vella",2,"el Barri Gòtic","Nenes",53
+2017,1,"Ciutat Vella",3,"la Barceloneta","Nenes",50
+2017,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Nenes",90
+2017,2,"Eixample",5,"el Fort Pienc","Nenes",114
+2017,2,"Eixample",6,"la Sagrada Família","Nenes",183
+2017,2,"Eixample",7,"la Dreta de l'Eixample","Nenes",159
+2017,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Nenes",164
+2017,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Nenes",242
+2017,2,"Eixample",10,"Sant Antoni","Nenes",130
+2017,3,"Sants-Montjuïc",11,"el Poble Sec","Nenes",174
+2017,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Nenes",8
+2017,3,"Sants-Montjuïc",13,"la Marina de Port","Nenes",117
+2017,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Nenes",30
+2017,3,"Sants-Montjuïc",15,"Hostafrancs","Nenes",64
+2017,3,"Sants-Montjuïc",16,"la Bordeta","Nenes",75
+2017,3,"Sants-Montjuïc",17,"Sants - Badal","Nenes",96
+2017,3,"Sants-Montjuïc",18,"Sants","Nenes",180
+2017,4,"Les Corts",19,"les Corts","Nenes",175
+2017,4,"Les Corts",20,"la Maternitat i Sant Ramon","Nenes",105
+2017,4,"Les Corts",21,"Pedralbes","Nenes",32
+2017,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Nenes",20
+2017,5,"Sarrià-Sant Gervasi",23,"Sarrià","Nenes",110
+2017,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Nenes",61
+2017,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Nenes",95
+2017,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Nenes",199
+2017,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Nenes",138
+2017,6,"Gràcia",28,"Vallcarca i els Penitents","Nenes",66
+2017,6,"Gràcia",29,"el Coll","Nenes",25
+2017,6,"Gràcia",30,"la Salut","Nenes",42
+2017,6,"Gràcia",31,"la Vila de Gràcia","Nenes",236
+2017,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Nenes",144
+2017,7,"Horta-Guinardó",33,"el Baix Guinardó","Nenes",93
+2017,7,"Horta-Guinardó",34,"Can Baró","Nenes",38
+2017,7,"Horta-Guinardó",35,"el Guinardó","Nenes",170
+2017,7,"Horta-Guinardó",36,"la Font d'en Fargues","Nenes",33
+2017,7,"Horta-Guinardó",37,"el Carmel","Nenes",136
+2017,7,"Horta-Guinardó",38,"la Teixonera","Nenes",41
+2017,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Nenes",27
+2017,7,"Horta-Guinardó",40,"Montbau","Nenes",17
+2017,7,"Horta-Guinardó",41,"la Vall d'Hebron","Nenes",20
+2017,7,"Horta-Guinardó",42,"la Clota","Nenes",5
+2017,7,"Horta-Guinardó",43,"Horta","Nenes",91
+2017,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Nenes",108
+2017,8,"Nou Barris",45,"Porta","Nenes",117
+2017,8,"Nou Barris",46,"el Turó de la Peira","Nenes",92
+2017,8,"Nou Barris",47,"Can Peguera","Nenes",8
+2017,8,"Nou Barris",48,"la Guineueta","Nenes",40
+2017,8,"Nou Barris",49,"Canyelles","Nenes",14
+2017,8,"Nou Barris",50,"les Roquetes","Nenes",83
+2017,8,"Nou Barris",51,"Verdun","Nenes",48
+2017,8,"Nou Barris",52,"la Prosperitat","Nenes",124
+2017,8,"Nou Barris",53,"la Trinitat Nova","Nenes",28
+2017,8,"Nou Barris",54,"Torre Baró","Nenes",8
+2017,8,"Nou Barris",55,"Ciutat Meridiana","Nenes",53
+2017,8,"Nou Barris",56,"Vallbona","Nenes",11
+2017,9,"Sant Andreu",57,"la Trinitat Vella","Nenes",55
+2017,9,"Sant Andreu",58,"Baró de Viver","Nenes",13
+2017,9,"Sant Andreu",59,"el Bon Pastor","Nenes",60
+2017,9,"Sant Andreu",60,"Sant Andreu","Nenes",232
+2017,9,"Sant Andreu",61,"la Sagrera","Nenes",100
+2017,9,"Sant Andreu",62,"el Congrés i els Indians","Nenes",61
+2017,9,"Sant Andreu",63,"Navas","Nenes",83
+2017,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Nenes",159
+2017,10,"Sant Martí",65,"el Clot","Nenes",82
+2017,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Nenes",74
+2017,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Nenes",29
+2017,10,"Sant Martí",68,"el Poblenou","Nenes",157
+2017,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Nenes",58
+2017,10,"Sant Martí",70,"el Besòs i el Maresme","Nenes",99
+2017,10,"Sant Martí",71,"Provençals del Poblenou","Nenes",80
+2017,10,"Sant Martí",72,"Sant Martí de Provençals","Nenes",98
+2017,10,"Sant Martí",73,"la Verneda i la Pau","Nenes",107

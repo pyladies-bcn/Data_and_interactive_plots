@@ -1,0 +1,16 @@
+folium
+kml2geojson
+geojson
+dash
+requests
+selenium
+numpy 
+pandas
+matplotlib
+Pillow
+seaborn
+twisted
+dash_core_components
+dash_html_components
+plotly
+flask
